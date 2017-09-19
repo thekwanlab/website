@@ -1,10 +1,8 @@
 # Site settings
 title: Kwan Lab
 header-img: img/fetal-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
 description: "The Kwan laboratory at the University of Michigan for the study of cerebral cortical development, evolution, and dysfunction."
-baseurl: "/~adelq/kwan"
+baseurl: ""
 url: "http://kwanlab.org"
 twitter_username: kwanlab
 github_username:  thekwanlab
