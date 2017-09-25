@@ -24,28 +24,6 @@ Department of Human Genetics
 | Office | 5688 BSRB                      |
 | Phone  | [734-763-3597](tel:7347633597) |
 
-<!--
-<div>
-  <p>
-    <b>Kenneth Y. Kwan, Principal Investigator</b><br>
-    Email: &nbsp;&nbsp;&nbsp;kykwan(at)umich.edu<br>
-    Office: &nbsp;&nbsp;5041 BSRB
-  </p>
-
-  <p>
-    <b>Mandy Lam, Laboratory Manager</b><br>
-    Email: &nbsp;&nbsp;&nbsp;mandylam(at)umich.edu<br>
-    Lab: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5688 BSRB
-  </p>
-</div>
-
-
-## Phone Numbers
-
-| **Office** | [734-615-2444](tel:7346152444) |
-| **Lab**    | [734-763-3597](tel:7347633597) |
-
--->
 
 ## Location
 
