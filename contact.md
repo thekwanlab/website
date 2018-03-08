@@ -2,7 +2,7 @@
 layout: page
 title: "Contact"
 header-img: "img/bsrb-bg.jpg"
-order: 5
+order: 6
 ---
 
 # Kwan laboratory
