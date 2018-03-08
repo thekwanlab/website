@@ -499,3 +499,6 @@ img.aff-logo {
   background-color: #006980;
   border-color: #005080;
 }
+svg a {
+  cursor: pointer;
+}
