@@ -2,7 +2,7 @@
 layout: page
 title: "People"
 header-img: "img/people-bg.jpg"
-order: 4
+order: 5
 ---
 
 <div class="row">
@@ -60,14 +60,14 @@ order: 4
     <p class="job">Research Technician</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src="{{ site.baseurl }}/img/bios/stephen_harvey.jpg" alt="Stephen Harvey" class="bio-pic center-block">
-    <p class="name">Stephen Harvey</p>
-    <p class="job">Undergraduate student</p>
-  </div>
-  <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/nitesh_mohan.jpg" alt="Nitesh Mohan" class="bio-pic center-block">
     <p class="name">Nitesh Mohan</p>
     <p class="job">Undergraduate student</p>
+  </div>
+  <div class="col-md-4 col-sm-6 col-xs-12 bio">
+    <img src="{{ site.baseurl }}/img/bios/alba_guxholli.jpg" alt="Alba Guxholli" class="bio-pic center-block">
+    <p class="name">Alba Guxholli</p>
+    <p class="job">UROP student</p>
   </div>
 </div>
 
@@ -97,3 +97,5 @@ Current position: Research Technician, Prechter Bipolar Research Center, Univ. o
 
 **Cameron Fattahi**, UROP student  
 Current position: McLean Hospital, Harvard Medical School
+
+**Stephen Harvey**, Undergraduate student
