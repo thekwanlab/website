@@ -42,6 +42,6 @@ order: 3
 
  1. Chen JG, Rasin MR, Kwan KY, Sestan N (2005). Zfp312 is required for subcortical axonal projections and dendritic morphology of deep-layer pyramidal neurons of the cerebral cortex. Proc Natl Acad Sci U S A, 102: 17792-17797\. [PDF](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fGt3YW5sYWJ8Z3g6NmZjN2MzOTgwN2Q0MmQ0ZQ)  
 
- 1. \*Abelson JF, \*Kwan KY, \*O'Roak BJ, Baek DY, Stillman AA, Morgan TM, Mathews CA, Pauls DL, Rasin MR, Gunel M, Davis NR, Ercan-Sencicek AG, Guez DH, Spertus JA, Leckman JF, Dure LSt, Kurlan R, Singer HS, Gilbert DL, Farhi A, Louvi A, Lifton RP, Sestan N, State MW (2005). Sequence variants in SLITRK1 are associated with Tourette's syndrome. Science, 310: 317-320\. [PDF](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fGt3YW5sYWJ8Z3g6MzgwNDYxMjY5MjVjNDkzOQ)  
+ 1. \*Abelson JF, \*Kwan KY, \*O'Roak BJ, Baek DY, Stillman AA, Morgan TM, Mathews CA, Pauls DL, Rasin MR, Gunel M, Davis NR, Ercan-Sencicek AG, Guez DH, Spertus JA, Leckman JF, Dure LSt, Kurlan R, Singer HS, Gilbert DL, Farhi A, Louvi A, Lifton RP, Sestan N, State MW (2005). Sequence variants in SLITRK1 are associated with Tourette's syndrome. Science, 310: 317-320\. [\*equal contributors] [PDF](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fGt3YW5sYWJ8Z3g6MzgwNDYxMjY5MjVjNDkzOQ)  
 
  1. Hegele RA, Kwan K, Harris SB, Hanley AJ, Zinman B, Cao H (2000). NAT2 polymorphism associated with plasma glucose concentration in Canadian Oji-Cree. Pharmacogenetics, 10: 233-238.
