@@ -12,7 +12,7 @@ order: 3
         <a href="http://scholar.google.com/citations?user=F_rKq5AAAAAJ&hl=en" class="btn btn-default" role="button" target="_blank">
           Google Scholar <span class="hidden-xs">Citations</span>
         </a>
-        <a href="http://www.researcherid.com/rid/F-8489-2011" class="btn btn-default" role="button" target="_blank">
+        <a href="https://publons.com/researcher/4309943/kenneth-kwan/publications/" class="btn btn-default" role="button" target="_blank">
           Web of Knowledge <span class="hidden-xs">Citations</span>
         </a>
       </div>
