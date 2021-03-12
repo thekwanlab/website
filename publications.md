@@ -20,6 +20,32 @@ order: 3
   </div>
 </div>
 
+ 1. Keil JM, Doyle DZ, Qalieh A, Lam MM, Funk OH, Qalieh Y, Shi L, Mohan N, Sorel A, Kwan KY (2020). Symmetric neural progenitor divisions require chromatin-mediated homologous recombination DNA repair by Ino80. Nature Communications, 11: 3839\. [PDF](https://drive.google.com/file/d/11IqepYvrKQJpSnVTHllwDOAz-47YXB0d/view?usp=sharing)
+
+ 1. Bott CJ, McMahon LP, Keil JM, Yap CC, Kwan KY, Winckler B (2020). Nestin Selectively Facilitates the Phosphorylation of the Lissencephaly-Linked Protein Doublecortin (DCX) by cdk5/p35 to Regulate Growth Cone Morphology and Sema3a Sensitivity in Developing Neurons. Journal of Neuroscience, 40: 3720-3740. 
+
+ 1. Zhou W, Emery SB, Flasch DA, Wang Y, Kwan KY, Kidd JM, Moran JV, Mills RE (2020). Identification and characterization of occult human-specific LINE-1 insertions using long-read sequencing technology. Nucleic Acids Research, 48: 1146-1163. 
+
+ 1. Shi L, Qalieh A, Lam MM, Keil JM, Kwan KY (2020). Robust elimination of genome-damaged cells safeguards against brain somatic aneuploidy following Knl1 deletion. Nature Communications, 10: 2588\. [PDF](https://drive.google.com/file/d/1dkF8UbbYW1tSBaTpyWUi9ImNkLeSo31c/view?usp=sharing)
+
+ 1. Keil JM, Qalieh A, Kwan KY (2020). Brain Transcriptome Databases: A User's Guide. Journal of Neuroscience, 38: 2399-2412\. [PDF](https://drive.google.com/file/d/1-drL1DGSomIyw_mtHRIEOMLNOkfgjUsr/view?usp=sharing)
+
+ 1. McConnell MJ, Moran JV, Abyzov A, Akbarian S, Bae T, Cortes-Ciriano I, Erwin JA, Fasching L, Flasch DA, Freed D, Ganz J, Jaffe AE, Kwan KY, Kwon M, Lodato MA, Mills RE, Paquola ACM, Rodin RE, Rosenbluh C, Sestan N, Sherman MA, Shin JH, Song S, Straub RE, Thorpe J, Weinberger DR, Urban AE, Zhou B, Gage FH, Lehner T, Senthil G, Walsh CA, Chess A, Courchesne E, Gleeson JG, Kidd JM, Park PJ, Pevsner J, Vaccarino FM; Brain Somatic Mosaicism Network (2017). Intersection of diverse neuronal genomes and neuropsychiatric disease: The Brain Somatic Mosaicism Network. Science, 356: eaal1641. 
+
+ 1. Akins MR, Berk-Rauch HE, Kwan KY, Mitchell ME, Shepard KA, Korsak LI, Stackpole EE, Warner-Schmidt JL, Sestan N, Cameron HA, Fallon JR (2017). Axonal ribosomes and mRNAs associate with fragile X granules in adult rodent and human brains. Human Molecular Genetics, 26: 192-209. 
+
+ 1. Caubit X, Gubellini P, Andrieux J, Roubertoux PL, Metwaly M, Jacq B, Fatmi A, Had-Aissouni L, Kwan KY, Salin P, Carlier M, Liedén A, Rudd E, Shinawi M, Vincent-Delorme C, Cuisset JM, Lemaitre MP, Abderrehamane F, Duban B, Lemaitre JF, Woolf AS, Bockenhauer D, Severac D, Dubois E, Zhu Y, Sestan N, Garratt AN, Lydia Kerkerian-Le Goff, Fasano L (2016). TSHZ3 deletion causes an autism syndrome and defects in cortical projection neurons. Nature Genetics, 48: 1359-1369.
+
+ 1. Iwase S, Brookes E, Agarwal S, Badeaux AI, Ito H, Vallianatos CN, Tomassy GS, Kasza T, Lin G, Thompson A, Gu L, Kwan KY, Chen C, Sartor MA, Egan B, Xu J, Shi Y (2016). A Mouse Model of X-linked Intellectual Disability Associated with Impaired Removal of Histone Methylation. Cell Reports, 14:1000-1009.
+
+ 1. Colvin SM, Kwan KY (2014). Dysregulated nitric oxide signaling as a candidate mechanism of fragile X syndrome and other neuropsychiatric disorders. Frontiers in Genetics, 5: 239\. [PDF](https://drive.google.com/file/d/1Zih11bpCzmRpuHjhzNA0S3AYj2Ssezxx/view?usp=sharing)
+
+ 1. Funk OH, Kwan KY (2014). Nitric oxide signaling in the development and evolution of language and cognitive circuits. Neuroscience Research, 86: 77-87\. [PDF](https://drive.google.com/file/d/1A896CTNQG6SAM6LPuLseGat1ulmt929D/view?usp=sharing)
+
+ 1. Robichaux MA, Chenaux G, Ho HY, Soskis MJ, Dravis C, Kwan KY, Šestan N, Greenberg ME, Henkemeyer M, Cowan CW (2014). EphB receptor forward signaling regulates area-specific reciprocal thalamic and cortical axon pathfinding. Proc Natl Acad Sci U S A, 111: 2188-2193.
+
+ 1. Kwan KY (2013). Transcriptional dysregulation of neocortical circuit assembly in ASD. International Review of Neurobiology, 113: 167-205\. [PDF](https://drive.google.com/file/d/1x-qidfDFX06Oet4XztJH91pfdVJb_-nY/view?usp=sharing)
+ 
  1. Shim S, Kwan KY, Li M, Lefebvre V, Sestan N. Cis-regulatory control of corticospinal system development and evolution (2012). Nature, 486: 74-79\. [PDF](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fGt3YW5sYWJ8Z3g6MmQ5MjhkZTBhODZkMzIyNw)  
 
  1. Kwan KY, Lam MMS, Johnson MB, Dube U, Shim S, Rasin MR, Sousa AMM, Fertuzinhos S, Chen JG, Arellano JI, Chan DW, Pletikos M, Vasung L, Rowitch DH, Huang EJ, Schwartz ML, Willemsen R, Oostra BA, Rakic P, Heffer M, Kostovic I, Judas M, Sestan N (2012). Species-dependent post-transcriptional regulation of NOS1 by FMRP in the developing cerebral cortex. Cell, 149: 899-911\. [PDF](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fGt3YW5sYWJ8Z3g6MWYzMjdhMTNlNGM5Y2Q1OA)  
