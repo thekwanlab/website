@@ -443,7 +443,7 @@ p.name {
   text-align: center;
 }
 .affiliation {
-  margin: 1em 0;
+  margin: 2em 0;
 }
 @media only screen and (max-width: 768px) {
   .aff-padded {
