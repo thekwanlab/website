@@ -20,6 +20,8 @@ order: 3
   </div>
 </div>
 
+ 1. Doyle DZ, Lam MM, Qalieh A, Qalieh Y, Sorel A, Funk OH, Kwan KY (2021). Chromatin remodeler Arid1a regulates subplate neuron identity and wiring of cortical connectivity. Proc Natl Acad Sci U S A, 118: e2100686118111\. [PDF](https://drive.google.com/file/d/1hs5O-gMNoelBxLeXOrL62j_J1UECGSJG/view?usp=sharing)
+
  1. Keil JM, Doyle DZ, Qalieh A, Lam MM, Funk OH, Qalieh Y, Shi L, Mohan N, Sorel A, Kwan KY (2020). Symmetric neural progenitor divisions require chromatin-mediated homologous recombination DNA repair by Ino80. Nature Communications, 11: 3839\. [PDF](https://drive.google.com/file/d/11IqepYvrKQJpSnVTHllwDOAz-47YXB0d/view?usp=sharing)
 
  1. Bott CJ, McMahon LP, Keil JM, Yap CC, Kwan KY, Winckler B (2020). Nestin Selectively Facilitates the Phosphorylation of the Lissencephaly-Linked Protein Doublecortin (DCX) by cdk5/p35 to Regulate Growth Cone Morphology and Sema3a Sensitivity in Developing Neurons. Journal of Neuroscience, 40: 3720-3740. 
