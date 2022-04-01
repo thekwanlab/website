@@ -37,23 +37,21 @@ order: 5
     <p class="job">Undergraduate Student</p>
   </div>
   
-  <!--
-  <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src="{{ site.baseurl }}/img/bios/akhil_kondepudi.jpg" alt="Akhil Kondepudi" class="bio-pic center-block">
-    <p class="name">Akhil Kondepudi</p>
-    <p class="job">Undergraduate Student</p>
-  </div>
-  <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src="{{ site.baseurl }}/img/bios/chloe_rybicki-kler.jpg" alt="Chloe Rybicki-Kler" class="bio-pic center-block">
-    <p class="name">Chloe Rybicki-Kler</p>
-    <p class="job">PIBS Rotation Student</p>
-  </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/kaan_gurun.jpg" alt="Kaan Gurun" class="bio-pic center-block">
     <p class="name">Kaan Gurun</p>
     <p class="job">Undergraduate Student</p>
   </div>
-  -->
+  <div class="col-md-4 col-sm-6 col-xs-12 bio">
+    <img src="{{ site.baseurl }}/img/bios/jeremy_nelson.jpg" alt="Jeremy Nelson" class="bio-pic center-block">
+    <p class="name">Jeremy Nelson</p>
+    <p class="job">UROP Student</p>
+  </div>
+  <div class="col-md-4 col-sm-6 col-xs-12 bio">
+    <img src="{{ site.baseurl }}/img/bios/placeholder.jpg" alt="Maeve Lucas" class="bio-pic center-block">
+    <p class="name">Maeve Lucas</p>
+    <p class="job">UROP Student</p>
+  </div>
 </div>
 
 <img src="{{ site.baseurl }}/img/tug_of_war.jpg" alt="Tug of war, Human Genetics, 2017" style="border-radius: 10px; margin: 70px 0 30px 0;">
