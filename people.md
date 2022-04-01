@@ -104,6 +104,7 @@ Current position: Ph.D. student, Univ. of Cincinnati
 **Stephen Harvey**, Undergraduate student  
 Current position: Research Lab Specialist Associate, Univ. of Michigan Medical School
 
-**Nitesh Mohan**, UROP student
+**Nitesh Mohan**, UROP student  
+Current position: Medical student, Cleveland Clinic Lerner College of Medicine
 
 **Alba Guxholli**, UROP student
