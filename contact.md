@@ -11,6 +11,10 @@ order: 6
 Molecular & Behavioral Neuroscience Institute (MBNI)  
 Department of Human Genetics
 
+### Open Positions
+
+We are recruiting students, post-docs, and research technicians! The Kwan lab has 3 fully funded open positions. Join our growing team if you are interested in chromatin regulation, functional genomics, and cortical circuit development!
+
 ### Kenneth Y. Kwan, Principal Investigator
 
 | Email  | kykwan(at)umich.edu            |
