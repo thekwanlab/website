@@ -20,6 +20,8 @@ order: 3
   </div>
 </div>
 
+ 1. Funk OH, Qalieh Y, Doyle DZ, Lam MM, Kwan KY (2022). Postmitotic accumulation of histone variant H3.3 in new cortical neurons establishes neuronal chromatin, transcriptome, and identity. Proc Natl Acad Sci U S A, 119: e2116956119\. 
+ 
  1. Doyle DZ, Lam MM, Qalieh A, Qalieh Y, Sorel A, Funk OH, Kwan KY (2021). Chromatin remodeler Arid1a regulates subplate neuron identity and wiring of cortical connectivity. Proc Natl Acad Sci U S A, 118: e2100686118111\. [PDF](https://drive.google.com/file/d/1hs5O-gMNoelBxLeXOrL62j_J1UECGSJG/view?usp=sharing)
 
  1. Keil JM, Doyle DZ, Qalieh A, Lam MM, Funk OH, Qalieh Y, Shi L, Mohan N, Sorel A, Kwan KY (2020). Symmetric neural progenitor divisions require chromatin-mediated homologous recombination DNA repair by Ino80. Nature Communications, 11: 3839\. [PDF](https://drive.google.com/file/d/11IqepYvrKQJpSnVTHllwDOAz-47YXB0d/view?usp=sharing)
@@ -28,9 +30,9 @@ order: 3
 
  1. Zhou W, Emery SB, Flasch DA, Wang Y, Kwan KY, Kidd JM, Moran JV, Mills RE (2020). Identification and characterization of occult human-specific LINE-1 insertions using long-read sequencing technology. Nucleic Acids Research, 48: 1146-1163. 
 
- 1. Shi L, Qalieh A, Lam MM, Keil JM, Kwan KY (2020). Robust elimination of genome-damaged cells safeguards against brain somatic aneuploidy following Knl1 deletion. Nature Communications, 10: 2588\. [PDF](https://drive.google.com/file/d/1dkF8UbbYW1tSBaTpyWUi9ImNkLeSo31c/view?usp=sharing)
+ 1. Shi L, Qalieh A, Lam MM, Keil JM, Kwan KY (2019). Robust elimination of genome-damaged cells safeguards against brain somatic aneuploidy following Knl1 deletion. Nature Communications, 10: 2588\. [PDF](https://drive.google.com/file/d/1dkF8UbbYW1tSBaTpyWUi9ImNkLeSo31c/view?usp=sharing)
 
- 1. Keil JM, Qalieh A, Kwan KY (2020). Brain Transcriptome Databases: A User's Guide. Journal of Neuroscience, 38: 2399-2412\. [PDF](https://drive.google.com/file/d/1-drL1DGSomIyw_mtHRIEOMLNOkfgjUsr/view?usp=sharing)
+ 1. Keil JM, Qalieh A, Kwan KY (2018). Brain Transcriptome Databases: A User's Guide. Journal of Neuroscience, 38: 2399-2412\. [PDF](https://drive.google.com/file/d/1-drL1DGSomIyw_mtHRIEOMLNOkfgjUsr/view?usp=sharing)
 
  1. McConnell MJ, Moran JV, Abyzov A, Akbarian S, Bae T, Cortes-Ciriano I, Erwin JA, Fasching L, Flasch DA, Freed D, Ganz J, Jaffe AE, Kwan KY, Kwon M, Lodato MA, Mills RE, Paquola ACM, Rodin RE, Rosenbluh C, Sestan N, Sherman MA, Shin JH, Song S, Straub RE, Thorpe J, Weinberger DR, Urban AE, Zhou B, Gage FH, Lehner T, Senthil G, Walsh CA, Chess A, Courchesne E, Gleeson JG, Kidd JM, Park PJ, Pevsner J, Vaccarino FM; Brain Somatic Mosaicism Network (2017). Intersection of diverse neuronal genomes and neuropsychiatric disease: The Brain Somatic Mosaicism Network. Science, 356: eaal1641. 
 
