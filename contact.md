@@ -8,7 +8,7 @@ order: 6
 # Kwan laboratory
 
 
-Molecular & Behavioral Neuroscience Institute (MBNI)  
+Michigan Neuroscience Institute (MNI)  
 Department of Human Genetics
 
 
