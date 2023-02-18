@@ -71,7 +71,7 @@ Current position: Postdoctoral Fellow, Ivy Brain Tumor Center, Barrow Neurologic
 Current position: Resident, Dept. of Ophthalmology, Penn Medicine
 
 **Adel Qalieh**, Research Associate  
-Current position: Medical student, Univ. of Michigan Medical School
+Current position: Resident, Dept. of Ophthalmology, Henry Ford
 
 **Steven Colvin**, Research Associate  
 Current position: Ph.D. student, Guoping Feng lab, MIT
