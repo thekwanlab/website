@@ -89,32 +89,35 @@ order: 5
 
 ## Alumni
 
-**Lei Shi**, Postdoctoral Fellow  
+**Lei Shi, Ph.D.**, Postdoctoral Fellow  
 Current position: Assistant Professor, Kunming Inst. of Zoology, CAS 
 
-**Grace Lin**, Postdoctoral Fellow  
+**Grace Lin, Ph.D.**, Postdoctoral Fellow  
 Current position: Research Specialist, Univ. of Michigan Medical School
 
-**Michael Holter**, Postdoctoral Fellow  
+**Michael Holter, Ph.D**, Postdoctoral Fellow  
 Current position: Postdoctoral Fellow, Ivy Brain Tumor Center, Barrow Neurological Inst.
 
-**Jason Keil**, Ph.D. student (Human Genetics, MSTP)  
+**Jason Keil, M.D., Ph.D.**, Ph.D. student (Human Genetics, MSTP)  
 Current position: Resident, Dept. of Ophthalmology, Penn Medicine
 
-**Adel Qalieh**, Research Associate  
+**Owen Funk, Ph.D**, Ph.D. student (Human Genetics)
+Current position: Postdoctoral Associate, University of Wyoming
+
+**Adel Qalieh, M.D.**, Research Associate  
 Current position: Resident, Dept. of Ophthalmology, Henry Ford
 
 **Steven Colvin**, Research Associate  
 Current position: Ph.D. student, Guoping Feng lab, MIT
 
-**Leo Brayman**, Research Associate  
-Current position: Medical student, Wayne State Univ.
+**Leo Brayman, M.D.**, Research Associate  
+Current position: Family Medicine Specialist, Ascension Providence Rochester Hospital
 
-**Christian Fritz**, Research Associate  
-Current position: Medical student, Oakland Univ. Beaumont School of Medicine
+**Christian Fritz, M.D.**, Research Associate  
+Current position: Pursing Otolaryngology-Head and Neck Surgery
 
 **Quentin Richardson**, BP-ENDURE fellow  
-Current position: RSI Scholar, Harvard University
+Current position: Ph.D. student, Harvard University
 
 **Bethany Navis**, UROP student  
 Current position: Research Technician, Prechter Bipolar Research Center, Univ. of Michigan
@@ -133,9 +136,14 @@ Current position: Ph.D. student, Univ. of Cincinnati
 **Tronjay Davis**, PREP student
 
 **Stephen Harvey**, Undergraduate student  
-Current position: Research Lab Specialist Associate, Univ. of Michigan Medical School
+Current position: Medical Student, Mayo Clinic School of Medicine
 
-**Nitesh Mohan**, UROP student  
+**Nitesh Mohan**, UROP student
 Current position: Medical student, Cleveland Clinic Lerner College of Medicine
 
 **Alba Guxholli**, UROP student
+
+**Vigrinia Berry**, SIREN student
+
+**Kaan Gurun**, Undergraduate student
+Current position: Research Associate, McGovern Institute for Brain Research
