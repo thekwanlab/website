@@ -74,7 +74,7 @@ Current position: Resident, Dept. of Ophthalmology, Penn Medicine
 Current position: Postdoctoral Associate, University of Wyoming
 
 **Adel Qalieh, M.D.**, Research Associate  
-Current position: Resident, Dept. of Ophthalmology, Henry Ford
+Current position: Medical student, Univ. of Michigan Medical School
 
 **Steven Colvin**, Research Associate  
 Current position: Ph.D. student, Guoping Feng lab, MIT
