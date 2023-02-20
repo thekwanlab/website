@@ -85,7 +85,7 @@ order: 5
   </div>
 </div>
 
-<img src="{{ site.baseurl }}/img/pumpkin_patch.jpg" alt="Tug of war, Human Genetics, 2017" style="border-radius: 10px; margin: 70px 0 30px 0;">
+<img src="{{ site.baseurl }}/img/Pumpkin_Patch.jpg" alt="Dexter Cider Mill, 2022" style="border-radius: 10px; margin: 70px 0 30px 0;">
 
 ## Alumni
 
