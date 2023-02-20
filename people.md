@@ -101,7 +101,7 @@ Current position: Postdoctoral Fellow, Ivy Brain Tumor Center, Barrow Neurologic
 **Jason Keil, M.D., Ph.D.**, Ph.D. student (Human Genetics, MSTP)  
 Current position: Resident, Dept. of Ophthalmology, Penn Medicine
 
-**Owen Funk, Ph.D**, Ph.D. student (Human Genetics)
+**Owen Funk, Ph.D**, Ph.D. student (Human Genetics)  
 Current position: Postdoctoral Associate, University of Wyoming
 
 **Adel Qalieh, M.D.**, Research Associate  
@@ -138,12 +138,12 @@ Current position: Ph.D. student, Univ. of Cincinnati
 **Stephen Harvey**, Undergraduate student  
 Current position: Medical Student, Mayo Clinic School of Medicine
 
-**Nitesh Mohan**, UROP student
+**Nitesh Mohan**, UROP student  
 Current position: Medical student, Cleveland Clinic Lerner College of Medicine
 
 **Alba Guxholli**, UROP student
 
 **Vigrinia Berry**, SIREN student
 
-**Kaan Gurun**, Undergraduate student
+**Kaan Gurun**, Undergraduate student  
 Current position: Research Associate, McGovern Institute for Brain Research
