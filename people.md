@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "People"
-header-img: "img/header_image_8.jpg"
+header-img: "img/Header_Image_14.jpg"
 order: 5
 ---
 
@@ -85,7 +85,7 @@ order: 5
   </div>
 </div>
 
-<img src="{{ site.baseurl }}/img/Pumpkin_Patch.jpg" alt="Tug of war, Human Genetics, 2017" style="border-radius: 10px; margin: 70px 0 30px 0;">
+<img src="{{ site.baseurl }}/img/pumpkin_patch.jpg" alt="Tug of war, Human Genetics, 2017" style="border-radius: 10px; margin: 70px 0 30px 0;">
 
 ## Alumni
 
