@@ -6,7 +6,7 @@ order: 5
 ---
 
 <div class="row">
-  <div class="col-md-4 col-sm-6 col-xs-12 bio">
+  <div class="col-md-offset-2 col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/kenneth_kwan.jpg" alt="Kenneth Kwan" class="bio-pic center-block">
       <p class="name">Kenneth Y. Kwan</p>
       <p class="job">Principal Investigator</p>
@@ -73,7 +73,7 @@ order: 5
     <p class="name">Maeve Lucas</p>
     <p class="job">Undergraduate Student</p>
   </div>
-  <div class="col-md-4 col-sm-6 col-xs-12 bio">
+  <div class="col-md-offset-2 col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/nancy_yao.jpg" alt="Nancy Yao" class="bio-pic center-block">
     <p class="name">Nancy Yao</p>
     <p class="job">UROP Student</p>
