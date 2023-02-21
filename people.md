@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "People"
-header-img: "img/Header_Image_14.jpg"
+header-img: "img/people-bg.jpg"
 order: 5
 ---
 
