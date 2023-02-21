@@ -8,8 +8,8 @@ order: 5
 <div class="row">
   <div class="col-md-offset-2 col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/kenneth_kwan.jpg" alt="Kenneth Kwan" class="bio-pic center-block">
-      <p class="name">Kenneth Y. Kwan</p>
-      <p class="job">Principal Investigator</p>
+     <p class="name">Kenneth Y. Kwan</p>
+     <p class="job">Principal Investigator</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/mandy_lam.jpg" alt="Mandy Lam" class="bio-pic center-block">
@@ -18,9 +18,7 @@ order: 5
   </div>
 </div>
 
-
 <div class="row">
-  
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/daniel_doyle.jpg" alt="Dan Doyle" class="bio-pic center-block">
     <p class="name">Dan Doyle</p>
@@ -38,8 +36,6 @@ order: 5
     <p class="name">Yaman Qalieh</p>
     <p class="job">Research Associate</p>
   </div>
-  
-  
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/rama_alsakaji.jpg" alt="Rama Alsakaji" class="bio-pic center-block">
     <p class="name">Rama Alsakaji</p>
@@ -60,8 +56,7 @@ order: 5
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/ethan_ofarrell.jpg" alt="Ethan O'Farrell" class="bio-pic center-block">
     <p class="name">Ethan O'Farrell</p>
-    <p class="job">Co-op Student</p>
-    <p class="description">(Univ. of Waterloo)</p>
+    <p class="job">Co-op Student, Univ. of Waterloo</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/jeremy_nelson.jpg" alt="Jeremy Nelson" class="bio-pic center-block">
