@@ -24,6 +24,7 @@ module.exports = function(grunt) {
             minified: {
                 options: {
                     paths: ["css"],
+                    compress: true,
                     cleancss: true
                 },
                 files: {
@@ -43,6 +44,7 @@ module.exports = function(grunt) {
               /(#|\.)navbar(-[a-zA-Z]+)?/,
               /(#|\.)dropdown(-[a-zA-Z]+)?/,
               /(#|\.)(open)/,
+              /(#|\.)carousel(-[a-zA-Z]+)?/,
               // injected via JS
               /disabled/,
               /\.no-js/,

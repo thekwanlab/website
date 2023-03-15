@@ -80,7 +80,49 @@ order: 5
   </div>
 </div>
 
-<img src="{{ site.baseurl }}/img/Pumpkin_Patch.jpg" alt="Dexter Cider Mill, 2022" style="border-radius: 10px; margin: 70px 0 30px 0;">
+
+<!-- Carousel container -->
+<div id="my-pics" class="carousel slide" data-ride="carousel" style="width:1000px;margin:auto;margin-top:100px;">
+
+<!-- Indicators -->
+<ol class="carousel-indicators">
+<li data-target="#my-pics" data-slide-to="0" class="active"></li>
+<li data-target="#my-pics" data-slide-to="1"></li>
+<li data-target="#my-pics" data-slide-to="2"></li>
+</ol>
+
+<!-- Content -->
+<div class="carousel-inner" role="listbox">
+
+<!-- Slide 1 -->
+<div class="item active">
+<img src="{{ site.baseurl }}/img/Pumpkin_Patch_1000x750.jpg" alt="Dexter Cider Mill, 2023">
+</div>
+
+<!-- Slide 2 -->
+<div class="item">
+<img src="{{ site.baseurl }}/img/Escape_1000x750.jpg" alt="Virtual Escape Room, 2023">
+</div>
+
+<!-- Slide 3 -->
+<div class="item">
+<img src="{{ site.baseurl }}/img/Coffee_1000x750.jpg" alt="MNI Coffee & Doughnut Day, 2022">
+</div>
+
+</div>
+
+<!-- Previous/Next controls -->
+<a class="left carousel-control" href="#my-pics" role="button" data-slide="prev">
+<span class="icon-prev" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#my-pics" role="button" data-slide="next">
+<span class="icon-next" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+
+</div>
+
 
 ## Alumni
 
