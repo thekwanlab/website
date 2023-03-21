@@ -139,7 +139,7 @@ Current position: Postdoctoral Fellow, Ivy Brain Tumor Center, Barrow Neurologic
 Current position: Resident, Dept. of Ophthalmology, Penn Medicine
 
 **Owen Funk, Ph.D**, Ph.D. student (Human Genetics)  
-Current position: Postdoctoral Associate, University of Wyoming
+Current position: Postdoctoral Associate, Univ. of Wyoming
 
 **Adel Qalieh, M.D.**, Research Associate  
 Current position: Resident, Dept. of Ophthalmology, Henry Ford
@@ -154,7 +154,7 @@ Current position: Family Medicine Specialist, Ascension Providence Rochester Hos
 Current position: Pursing Otolaryngology-Head and Neck Surgery
 
 **Quentin Richardson**, BP-ENDURE fellow  
-Current position: Ph.D. student, Harvard University
+Current position: Ph.D. student, Harvard Univ.
 
 **Bethany Navis**, UROP student  
 Current position: Research Technician, Prechter Bipolar Research Center, Univ. of Michigan
@@ -164,8 +164,14 @@ Current position: Software Product Manager, Wynd Technologies, Inc.
 
 **Nikita Khan**, NURO student
 
+**Dave Richard**, NURO student
+Current position: Ph.D. student, Weill Cornell Medicine
+
 **Cameron Fattahi**, UROP student  
-Current position: Medical student, University of Massachusetts Medical School
+Current position: Medical student, Univ. of Massachusetts Medical School
+
+**Akhil Kondepudi**, UROP student
+Current position: Research fellow, Univ. of Michigan Medical School
 
 **Alice Sorel**, PREP student  
 Current position: Ph.D. student, Univ. of Cincinnati
@@ -179,6 +185,7 @@ Current position: Medical Student, Mayo Clinic School of Medicine
 Current position: Medical student, Cleveland Clinic Lerner College of Medicine
 
 **Alba Guxholli**, UROP student
+Current position: Clinical Subjects Associate, Univ. of Michigan Medical School
 
 **Vigrinia Berry**, SIREN student
 
