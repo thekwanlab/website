@@ -164,13 +164,13 @@ Current position: Software Product Manager, Wynd Technologies, Inc.
 
 **Nikita Khan**, NURO student
 
-**Dave Richard**, NURO student
+**Dave Richard**, NURO student  
 Current position: Ph.D. student, Weill Cornell Medicine
 
 **Cameron Fattahi**, UROP student  
 Current position: Medical student, Univ. of Massachusetts Medical School
 
-**Akhil Kondepudi**, UROP student
+**Akhil Kondepudi**, UROP student  
 Current position: Research fellow, Univ. of Michigan Medical School
 
 **Alice Sorel**, PREP student  
@@ -184,7 +184,7 @@ Current position: Medical Student, Mayo Clinic School of Medicine
 **Nitesh Mohan**, UROP student  
 Current position: Medical student, Cleveland Clinic Lerner College of Medicine
 
-**Alba Guxholli**, UROP student
+**Alba Guxholli**, UROP student  
 Current position: Clinical Subjects Associate, Univ. of Michigan Medical School
 
 **Vigrinia Berry**, SIREN student
