@@ -44,13 +44,13 @@ order: 5
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/karina_hernandez_quijada.jpg" alt="Karina Hernandez Quijada" class="bio-pic center-block">
     <p class="name">Karina Hernandez Quijada</p>
-    <p class="job">Rotation Ph.D. Student</p>
+    <p class="job">Ph.D. Student</p>
     <p class="description">(Genetics and Genomics)</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/vitkoria_kirschnerova.jpg" alt="Viktoria Kirschnerova" class="bio-pic center-block">
     <p class="name">Viktoria Kirschnerova</p>
-    <p class="job">Rotation Ph.D. Student</p>
+    <p class="job">Ph.D. Student</p>
     <p class="description">(Neuroscience)</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
