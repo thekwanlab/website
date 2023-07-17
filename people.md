@@ -7,12 +7,12 @@ order: 5
 
 <div class="row">
   <div class="col-md-offset-2 col-md-4 col-sm-6 col-xs-12 bio">
-    <img src="{{ site.baseurl }}/img/bios/kenneth_kwan.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/ken_dan.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/kenneth_kwan.jpg';" alt="Kenneth Kwan" class="bio-pic center-block">
+    <img src="{{ site.baseurl }}/img/bios/kenneth_kwan.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/ken_grill.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/kenneth_kwan.jpg';" alt="Kenneth Kwan" class="bio-pic center-block">
      <p class="name">Kenneth Y. Kwan</p>
      <p class="job">Principal Investigator</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src="{{ site.baseurl }}/img/bios/mandy_lam.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/mandy_maizie.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/mandy_lam.jpg';" alt="Mandy Lam" class="bio-pic center-block">
+    <img src="{{ site.baseurl }}/img/bios/mandy_lam.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/mandy_hover.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/mandy_lam.jpg';" alt="Mandy Lam" class="bio-pic center-block">
     <p class="name">Mandy Lam</p>
     <p class="job">Laboratory Manager</p>
   </div>
@@ -20,25 +20,25 @@ order: 5
 
 <div class="row">
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src='{{ site.baseurl }}/img/bios/ikenna_njoku.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/ikenna_dan.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/ikenna_njoku.jpg';" alt="Ikenna Njoku" class="bio-pic center-block">
+    <img src='{{ site.baseurl }}/img/bios/ikenna_njoku.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/ikenna_drink.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/ikenna_njoku.jpg';" alt="Ikenna Njoku" class="bio-pic center-block">
     <p class="name">Ikenna Njoku</p>
     <p class="job">Ph.D. Student</p>
     <p class="description">(Neuroscience)</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src="{{ site.baseurl }}/img/bios/vitkoria_kirschnerova.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/viktoria_dan.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/vitkoria_kirschnerova.jpg';" alt="Viktoria Kirschnerova" class="bio-pic center-block">
+    <img src="{{ site.baseurl }}/img/bios/vitkoria_kirschnerova.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/viktoria_hover.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/vitkoria_kirschnerova.jpg';" alt="Viktoria Kirschnerova" class="bio-pic center-block">
     <p class="name">Viktoria Kirschnerova</p>
     <p class="job">Ph.D. Student</p>
     <p class="description">(Neuroscience)</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src="{{ site.baseurl }}/img/bios/karina_hernandez_quijada2.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/karina_dan.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/karina_hernandez_quijada2.jpg';" alt="Karina Hernandez Quijada" class="bio-pic center-block">
+    <img src="{{ site.baseurl }}/img/bios/karina_hernandez_quijada2.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/karina_hover.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/karina_hernandez_quijada2.jpg';" alt="Karina Hernandez Quijada" class="bio-pic center-block">
     <p class="name">Karina Hernandez Quijada</p>
     <p class="job">Ph.D. Student</p>
     <p class="description">(Genetics and Genomics)</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src='{{ site.baseurl }}/img/bios/rama_alsakaji.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/maizie.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/rama_alsakaji.jpg';" alt="Rama Alsakaji" class="bio-pic center-block">
+    <img src='{{ site.baseurl }}/img/bios/rama_alsakaji.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/rama_cat.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/rama_alsakaji.jpg';" alt="Rama Alsakaji" class="bio-pic center-block">
     <p class="name">Rama Alsakaji</p>
     <p class="job">Research Laboratory Technician</p>
   </div>
@@ -48,7 +48,7 @@ order: 5
     <p class="job">Computational Biologist</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src='{{ site.baseurl }}/img/bios/julia_qian.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/julia_dan.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/julia_qian.jpg';" alt="Julia Qian" class="bio-pic center-block">
+    <img src='{{ site.baseurl }}/img/bios/julia_qian.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/julia_cat.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/julia_qian.jpg';" alt="Julia Qian" class="bio-pic center-block">
     <p class="name">Julia Qian</p>
     <p class="job">Co-op Student, Univ. of Waterloo</p>
   </div>
@@ -58,7 +58,7 @@ order: 5
     <p class="job">NURO Student, TCU</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src='{{ site.baseurl }}/img/bios/jeremy_nelson.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/Sideye.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/jeremy_nelson.jpg';" alt="Jeremy Nelson" class="bio-pic center-block">
+    <img src='{{ site.baseurl }}/img/bios/jeremy_nelson.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/jeremy_tennis.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/jeremy_nelson.jpg';" alt="Jeremy Nelson" class="bio-pic center-block">
     <p class="name">Jeremy Nelson</p>
     <p class="job">Undergraduate Student</p>
   </div>
@@ -73,7 +73,7 @@ order: 5
     <p class="job">UROP Student</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src='{{ site.baseurl }}/img/bios/maddie_rea.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/maddie_dan.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/maddie_rea.jpg';" alt="Maddie Rea" class="bio-pic center-block">
+    <img src='{{ site.baseurl }}/img/bios/maddie_rea.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/maddie_trophy.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/maddie_rea.jpg';" alt="Maddie Rea" class="bio-pic center-block">
     <p class="name">Madeline Rea</p>
     <p class="job">UROP Student</p>
   </div>
