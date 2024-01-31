@@ -17,7 +17,6 @@ order: 5
     <p class="job">Laboratory Manager</p>
   </div>
 </div>
-
 <div class="row">
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src='{{ site.baseurl }}/img/bios/ikenna_njoku.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/ikenna_drink.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/ikenna_njoku.jpg';" alt="Ikenna Njoku" class="bio-pic center-block">
@@ -37,37 +36,26 @@ order: 5
     <p class="job">Ph.D. Student</p>
     <p class="description">(Genetics and Genomics)</p>
   </div>
+</div>
+<div class="row">
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src='{{ site.baseurl }}/img/bios/rama_alsakaji.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/rama_cat.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/rama_alsakaji.jpg';" alt="Rama Alsakaji" class="bio-pic center-block">
     <p class="name">Rama Alsakaji</p>
     <p class="job">Research Laboratory Technician</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src="{{ site.baseurl }}/img/bios/ethan_ofarrell.jpg" alt="Ethan O'Farrell" class="bio-pic center-block">
+    <img src="{{ site.baseurl }}/img/bios/ethan_ofarrell.jpg" alt="Ethan O'Farrell" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/ethan_cartwheel.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/ethan_ofarrell.jpg';" class="bio-pic center-block">
     <p class="name">Ethan O'Farrell</p>
     <p class="job">Computational Biologist</p>
-  </div>
-  <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src='{{ site.baseurl }}/img/bios/julia_qian.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/julia_cat.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/julia_qian.jpg';" alt="Julia Qian" class="bio-pic center-block">
-    <p class="name">Julia Qian</p>
-    <p class="job">Co-op Student, Univ. of Waterloo</p>
-  </div>
-  <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src="{{ site.baseurl }}/img/bios/fabian_lopez.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/fabian_cat.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/fabian_lopez.jpg';" alt="Fabian Lopez" class="bio-pic center-block">
-    <p class="name">Fabian Lopez</p>
-    <p class="job">NURO Student, TCU</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src='{{ site.baseurl }}/img/bios/jeremy_nelson.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/jeremy_tennis.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/jeremy_nelson.jpg';" alt="Jeremy Nelson" class="bio-pic center-block">
     <p class="name">Jeremy Nelson</p>
     <p class="job">Undergraduate Student</p>
   </div>
+</div>
+<div class="row">
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src="{{ site.baseurl }}/img/bios/maeve_lucas.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/maeve_dan.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/maeve_lucas.jpg';" alt="Maeve Lucas" class="bio-pic center-block">
-    <p class="name">Maeve Lucas</p>
-    <p class="job">Undergraduate Student</p>
-  </div>
-  <div class="col-md-offset-2 col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/nancy_yao.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/nancy_drink.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/nancy_yao.jpg';" alt="Nancy Yao" class="bio-pic center-block">
     <p class="name">Nancy Yao</p>
     <p class="job">UROP Student</p>
@@ -75,6 +63,11 @@ order: 5
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src='{{ site.baseurl }}/img/bios/maddie_rea.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/maddie_trophy.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/maddie_rea.jpg';" alt="Maddie Rea" class="bio-pic center-block">
     <p class="name">Madeline Rea</p>
+    <p class="job">UROP Student</p>
+  </div>
+  <div class="col-md-4 col-sm-6 col-xs-12 bio">
+    <img src='{{ site.baseurl }}/img/bios/satchit_kulkarni.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/satchit_child.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/satchit_kulkarni.jpg';" alt="Satchit Kulkarni" class="bio-pic center-block">
+    <p class="name">Satchit Kulkarni</p>
     <p class="job">UROP Student</p>
   </div>
 </div>
@@ -151,6 +144,15 @@ order: 5
 
 **Lei Shi, Ph.D.**, Postdoctoral Fellow  
 Current position: Assistant Professor, Kunming Inst. of Zoology, CAS 
+
+**Maeve Lucas**, Undergraduate student  
+Current position: Program Assistant, Adolescent Health Initiative, Univ. of Michigan
+
+**Julia Qian**, Undergraduate student  
+Current position: Univ. of Waterloo
+
+**Fabian Lopez**, Undergraduate student  
+Current position: Texas Christian University
 
 **Grace Lin, Ph.D.**, Postdoctoral Fellow  
 Current position: Research Specialist, Univ. of Michigan Medical School
