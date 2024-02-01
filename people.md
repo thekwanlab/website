@@ -145,15 +145,6 @@ order: 5
 **Lei Shi, Ph.D.**, Postdoctoral Fellow  
 Current position: Assistant Professor, Kunming Inst. of Zoology, CAS 
 
-**Maeve Lucas**, Undergraduate student  
-Current position: Program Assistant, Adolescent Health Initiative, Univ. of Michigan
-
-**Julia Qian**, Undergraduate student  
-Current position: Univ. of Waterloo
-
-**Fabian Lopez**, Undergraduate student  
-Current position: Texas Christian University
-
 **Grace Lin, Ph.D.**, Postdoctoral Fellow  
 Current position: Research Specialist, Univ. of Michigan Medical School
 
@@ -223,3 +214,12 @@ Current position: Clinical Subjects Associate, Univ. of Michigan Medical School
 
 **Kaan Gurun**, Undergraduate student  
 Current position: Research Associate, McGovern Institute for Brain Research
+
+**Maeve Lucas**, Undergraduate student  
+Current position: Program Assistant, Adolescent Health Initiative, Univ. of Michigan
+
+**Julia Qian**, Undergraduate student  
+Current position: Univ. of Waterloo
+
+**Fabian Lopez**, Undergraduate student  
+Current position: Texas Christian University
