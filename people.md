@@ -51,19 +51,19 @@ order: 5
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src='{{ site.baseurl }}/img/bios/jeremy_nelson.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/jeremy_tennis.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/jeremy_nelson.jpg';" alt="Jeremy Nelson" class="bio-pic center-block">
     <p class="name">Jeremy Nelson</p>
-    <p class="job">Undergraduate Student</p>
+    <p class="job">Undergraduate Assistant</p>
   </div>
 </div>
 <div class="row">
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/nancy_yao.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/nancy_drink.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/nancy_yao.jpg';" alt="Nancy Yao" class="bio-pic center-block">
     <p class="name">Nancy Yao</p>
-    <p class="job">UROP Student</p>
+    <p class="job">Undergraduate Assistant</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src='{{ site.baseurl }}/img/bios/maddie_rea.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/maddie_trophy.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/maddie_rea.jpg';" alt="Maddie Rea" class="bio-pic center-block">
     <p class="name">Madeline Rea</p>
-    <p class="job">UROP Student</p>
+    <p class="job">Undergraduate Assistant</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src='{{ site.baseurl }}/img/bios/satchit_kulkarni.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/satchit_child.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/satchit_kulkarni.jpg';" alt="Satchit Kulkarni" class="bio-pic center-block">
@@ -218,8 +218,8 @@ Current position: Research Associate, McGovern Institute for Brain Research
 **Maeve Lucas**, Undergraduate student  
 Current position: Program Assistant, Adolescent Health Initiative, Univ. of Michigan
 
-**Julia Qian**, Undergraduate student  
+**Julia Qian**, Co-op student  
 Current position: Univ. of Waterloo
 
-**Fabian Lopez**, Undergraduate student  
+**Fabian Lopez**, NURO student  
 Current position: Texas Christian University
