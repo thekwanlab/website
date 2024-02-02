@@ -210,7 +210,8 @@ Current position: Medical student, Cleveland Clinic Lerner College of Medicine
 **Alba Guxholli**, UROP student  
 Current position: Clinical Subjects Associate, Univ. of Michigan Medical School
 
-**Vigrinia Berry**, SIREN student
+**Virginia Berry**, SIREN student  
+Current position: Imaging Research Specialist I,  Vanderbilt Univ. Institute of Imaging Science
 
 **Kaan Gurun**, Undergraduate student  
 Current position: Research Associate, McGovern Institute for Brain Research
@@ -222,4 +223,4 @@ Current position: Program Assistant, Adolescent Health Initiative, Univ. of Mich
 Current position: Univ. of Waterloo Student
 
 **Fabian Lopez**, NURO student  
-Current position: Texas Christian University Student
+Current position: Texas Christian Univ. Student
