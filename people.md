@@ -86,7 +86,7 @@ order: 5
 <li data-target="#my-pics" data-slide-to="5"></li>
 <li data-target="#my-pics" data-slide-to="6"></li>
 </ol>
-
+ 
 <!-- Content -->
 <div class="carousel-inner" role="listbox">
 
