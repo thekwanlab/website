@@ -220,7 +220,7 @@ Current position: Research Associate, McGovern Institute for Brain Research
 Current position: Program Assistant, Adolescent Health Initiative, Univ. of Michigan
 
 **Julia Qian**, Co-op student  
-Current position: Univ. of Waterloo Student
+Current position: M.Sc student, Georgia Institute of Technology
 
 **Fabian Lopez**, NURO student  
 Current position: Texas Christian Univ. Student
