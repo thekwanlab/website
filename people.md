@@ -87,14 +87,16 @@ order: 5
 <li data-target="#my-pics" data-slide-to="4"></li>
 <li data-target="#my-pics" data-slide-to="5"></li>
 <li data-target="#my-pics" data-slide-to="6"></li>
+<li data-target="#my-pics" data-slide-to="7"></li>
+<li data-target="#my-pics" data-slide-to="8"></li>
 </ol>
  
 <!-- Content -->
 <div class="carousel-inner" role="listbox">
 
 <!-- Slide 1 -->
-<div class="item">
-<img src="{{ site.baseurl }}/img/ken_party.jpeg" alt="House Party">
+<div class="item active">
+<img src="{{ site.baseurl }}/img/ken_party_2025.jpg" alt="House Party, 2025">
 </div>
 
 <!-- Slide 2 -->
@@ -109,21 +111,31 @@ order: 5
 
 <!-- Slide 4 -->
 <div class="item">
-<img src="{{ site.baseurl }}/img/MotorbikeExcite2.jpg" alt="Motorbike Racers">
+<img src="{{ site.baseurl }}/img/SfN_2024.jpg" alt="Society for Neuroscience, 2024">
 </div>
 
 <!-- Slide 5 -->
 <div class="item">
-<img src="{{ site.baseurl }}/img/Icecream_Social.jpeg" alt="Icecream Social">
+<img src="{{ site.baseurl }}/img/MotorbikeExcite2.jpg" alt="Motorbike Racers">
 </div>
 
 <!-- Slide 6 -->
 <div class="item">
-<img src="{{ site.baseurl }}/img/ikennaWin.jpg" alt="Mentor Award">
+<img src="{{ site.baseurl }}/img/ken_party.jpeg" alt="Another House Party, 2023">
 </div>
 
 <!-- Slide 7 -->
-<div class="item active">
+<div class="item">
+<img src="{{ site.baseurl }}/img/Icecream_Social.jpeg" alt="Icecream Social">
+</div>
+
+<!-- Slide 8 -->
+<div class="item">
+<img src="{{ site.baseurl }}/img/ikennaWin.jpg" alt="Mentor Award, 2023">
+</div>
+
+<!-- Slide 9 -->
+<div class="item">
 <img src="{{ site.baseurl }}/img/Pumpkin_Patch_1000x750.jpg" alt="Dexter Cider Mill, 2023">
 </div>
 
@@ -177,6 +189,9 @@ Current position: Pursing Otolaryngology-Head and Neck Surgery
 **Yaman Qalieh**, Research Associate  
 Current position: Medical Student, Univ. of Michigan Medical School
 
+**Rama Alsakaji**, Research Associate  
+Current position: Ph.D. Student, St Jude Children's Research Hospital
+
 **Quentin Richardson**, BP-ENDURE fellow  
 Current position: Ph.D. student, Harvard Univ.
 
@@ -226,3 +241,9 @@ Current position: M.Sc student, Georgia Institute of Technology
 
 **Fabian Lopez**, NURO student  
 Current position: Texas Christian Univ. Student
+
+**Satchit Kulkarni**, UROP student  
+Current position: Univ. of Michigan student
+
+**Jeremy Nelson**, Undergraduate student  
+Current position: Ph.D. Student, Case Western University
