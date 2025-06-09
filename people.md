@@ -25,7 +25,7 @@ order: 5
     <p class="description">(Neuroscience)</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src="{{ site.baseurl }}/img/bios/vitkoria_kirschnerova.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/viktoria_hover.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/vitkoria_kirschnerova.jpg';" alt="Viktoria Kirschnerova" class="bio-pic center-block">
+    <img src="{{ site.baseurl }}/img/bios/viktoria_kirschnerova2.jpg" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/viktoria_hover.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/viktoria_kirschnerova2.jpg';" alt="Viktoria Kirschnerova" class="bio-pic center-block">
     <p class="name">Viktoria Kirschnerova</p>
     <p class="job">Ph.D. Student</p>
     <p class="description">(Neuroscience)</p>
@@ -39,9 +39,10 @@ order: 5
 </div>
 <div class="row">
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src='{{ site.baseurl }}/img/bios/rama_alsakaji.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/rama_cat.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/rama_alsakaji.jpg';" alt="Rama Alsakaji" class="bio-pic center-block">
-    <p class="name">Rama Alsakaji</p>
-    <p class="job">Research Laboratory Technician</p>
+    <img src='{{ site.baseurl }}/img/bios/matt_petershack.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/matt_peonies.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/matt_petershack.jpg';" alt="Matt Petershack" class="bio-pic center-block">
+    <p class="name">Matt Petershack</p>
+    <p class="job">Ph.D. Student</p>
+    <p class="description">(Genetics and Genomics)</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
     <img src="{{ site.baseurl }}/img/bios/ethan_ofarrell.jpg" alt="Ethan O'Farrell" onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/ethan_cartwheel.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/ethan_ofarrell.jpg';" class="bio-pic center-block">
@@ -49,9 +50,10 @@ order: 5
     <p class="job">Computational Biologist</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src='{{ site.baseurl }}/img/bios/jeremy_nelson.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/jeremy_tennis.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/jeremy_nelson.jpg';" alt="Jeremy Nelson" class="bio-pic center-block">
-    <p class="name">Jeremy Nelson</p>
-    <p class="job">Undergraduate Assistant</p>
+    <img src='{{ site.baseurl }}/img/bios/cyan_tian.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/cyan_stitch.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/cyan_tian.jpg';" alt="Cyan Tian" class="bio-pic center-block">
+    <p class="name">Cyan Tian</p>
+    <p class="job">Co-op Student</p>
+    <p class="job">(University of Waterloo)</p>
   </div>
 </div>
 <div class="row">
@@ -66,8 +68,8 @@ order: 5
     <p class="job">Undergraduate Assistant</p>
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12 bio">
-    <img src='{{ site.baseurl }}/img/bios/satchit_kulkarni.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/satchit_child.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/satchit_kulkarni.jpg';" alt="Satchit Kulkarni" class="bio-pic center-block">
-    <p class="name">Satchit Kulkarni</p>
+    <img src='{{ site.baseurl }}/img/bios/maya_kiyak.jpg' onmouseover="this.src='{{ site.baseurl }}/img/hover_photos/maya_swings.jpg';" onmouseout="this.src='{{ site.baseurl }}/img/bios/maya_kiyak.jpg';" alt="Maya Kiyak" class="bio-pic center-block">
+    <p class="name">Maya Kiyak</p>
     <p class="job">UROP Student</p>
   </div>
 </div>
