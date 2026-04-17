@@ -126,7 +126,7 @@ order: 5
 
 <!-- Slide 7 -->
 <div class="item">
-<img src="{{ site.baseurl }}/img/Icecream_Social.jpeg" alt="Icecream Social">
+<img src="{{ site.baseurl }}/img/Icecream_Social.jpeg" alt="Ice Cream Social">
 </div>
 
 <!-- Slide 8 -->
@@ -247,3 +247,9 @@ Current position: Univ. of Michigan student
 
 **Jeremy Nelson**, Undergraduate student  
 Current position: Ph.D. Student, Case Western University
+
+**Nancy Yao**, Undergraduate student  
+Current position: Medical Student, Oakland University William Beaumont School of Medicine
+
+**Madeline Rea**, Undergraduate student  
+Current position: Ph.D. Student, Brown University
